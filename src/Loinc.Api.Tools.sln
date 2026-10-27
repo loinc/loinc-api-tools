@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Loinc.Api.Tools.Mcp", "Loinc.Api.Tools.Mcp\Loinc.Api.Tools.Mcp.csproj", "{6328DCFF-495F-4909-915C-3408C6528836}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6328DCFF-495F-4909-915C-3408C6528836}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6328DCFF-495F-4909-915C-3408C6528836}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6328DCFF-495F-4909-915C-3408C6528836}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6328DCFF-495F-4909-915C-3408C6528836}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
